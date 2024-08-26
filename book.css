@@ -1,0 +1,21 @@
+.home:hover{
+    transition:1s;
+    background-color: rgb(9, 9, 9);
+    border-radius: 25%;
+    font-size: larger;
+    
+}
+.book:hover{
+    transition:1s;
+    background-color: rgb(14, 15, 15);
+    border-radius: 25%;
+    font-size: larger;
+}
+body{
+    background-color: rgb(189, 216, 233);
+}
+.c:hover{
+    border: 3px solid black;
+    padding: 10px;
+    box-shadow: 5px 5px red;
+}

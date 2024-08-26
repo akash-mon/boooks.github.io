@@ -1,0 +1,13 @@
+.home:hover{
+    transition:1s;
+    background-color: rgb(9, 9, 9);
+    border-radius: 25%;
+    font-size: larger;
+    
+}
+.book:hover{
+    transition:1s;
+    background-color: rgb(14, 15, 15);
+    border-radius: 25%;
+    font-size: larger;
+}
